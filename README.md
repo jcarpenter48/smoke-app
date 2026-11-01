@@ -7,12 +7,6 @@
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://droposs.org)
 [![Docs](https://img.shields.io/badge/DOCS-black?style=for-the-badge&logo=docusaurus)](https://droposs.org/docs)
-[![Static Badge](https://img.shields.io/badge/FORUM-blue?style=for-the-badge)](https://forum.droposs.org)
-[![GitHub License](https://img.shields.io/badge/AGPL--3.0-red?style=for-the-badge)](LICENSE)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ACq4qZp4a9)
-[![Open Collective](https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://opencollective.com/drop-oss)
-[![Weblate project translated](https://img.shields.io/weblate/progress/drop?server=https%3A%2F%2Ftranslate.droposs.org&style=for-the-badge&logo=weblate)
-](https://translate.droposs.org/engage/drop/)
 
 Smoke is a fork of Drop, the open-source game distribution platform, similar to GameVault or Steam. It's designed to distribute and share DRM-free games quickly, all while being flexible and fast.
 
